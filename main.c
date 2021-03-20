@@ -1,6 +1,7 @@
 /*
  * musl-gcc main.c -o chall -no-pie -fno-stack-protector -O0 -static
  * not testing shit fukc you
+ * check
 */
 #include <stdio.h>
 #include <stdlib.h>
