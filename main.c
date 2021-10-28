@@ -1,7 +1,11 @@
 /*
  * musl-gcc main.c -o chall -no-pie -fno-stack-protector -O0 -static
  * testing commits 123
+<<<<<<< HEAD
  * 123 123123 123
+=======
+ * 123
+>>>>>>> 2fe741ceb32d8f2cbc82058b06e97f0fc4c079a7
  */
 #include <stdio.h>
 #include <stdlib.h>
