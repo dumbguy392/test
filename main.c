@@ -1,5 +1,6 @@
 /*
  * musl-gcc main.c -o chall -no-pie -fno-stack-protector -O0 -static
+ * testing commits
  */
 #include <stdio.h>
 #include <stdlib.h>
